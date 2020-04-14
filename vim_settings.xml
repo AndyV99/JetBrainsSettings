@@ -1,0 +1,507 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="B:/Work/ems-ltdashboard/app/components/truck-list-item.js" timestamp="1537260877785">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="3" column="32" />
+        <mark key="^" line="3" column="32" />
+        <mark key="." line="3" column="32" />
+      </file>
+      <file name="B:/super-rentals/app/controllers/rentals.js" timestamp="1528536269300">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="27" />
+        <mark key="." line="17" column="27" />
+        <mark key="^" line="9" column="24" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/bp-super-rentals/super-rentals/app/controllers/rental.js" timestamp="1528538267664">
+        <mark key="[" line="32" column="38" />
+        <mark key="]" line="32" column="42" />
+        <mark key="." line="32" column="42" />
+        <mark key="^" line="32" column="42" />
+      </file>
+      <file name="B:/super-rentals/package.json" timestamp="1528532049850">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/bp-super-rentals/super-rentals/app/routers/api/rental.js" timestamp="1529613345713">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="20" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+      </file>
+      <file name="B:/Work/ems-ltdashboard/app/templates/main/trucks.hbs" timestamp="1537260953996">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+      </file>
+      <file name="B:/ember-quickstart/app/routes/programmers.js" timestamp="1527105535588">
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="5" column="43" />
+        <mark key="^" line="5" column="43" />
+        <mark key="." line="5" column="43" />
+      </file>
+      <file name="B:/PyCharm/PythonProjects/Project1/src/GUI/Config.py" timestamp="1526838680173">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="B:/Work/ems-apiserver/app/controllers/truck.js" timestamp="1531275552229">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="B:/super-rentals/app/templates/rentals.hbs" timestamp="1527139764228">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="B:/Work/ems-ltdashboard/package.json" timestamp="1537259844248">
+        <mark key="[" line="78" column="26" />
+        <mark key="]" line="78" column="26" />
+        <mark key="^" line="78" column="26" />
+        <mark key="." line="78" column="26" />
+      </file>
+      <file name="B:/super-rentals/app/templates/contact.hbs" timestamp="1527116839495">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="16" column="5" />
+        <mark key="^" line="16" column="5" />
+        <mark key="." line="16" column="5" />
+      </file>
+      <file name="B:/super-rentals/app/templates/rentals/show.hbs" timestamp="1527138701031">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="17" column="47" />
+      </file>
+      <file name="B:/super-rentals/tests/integration/helpers/rental-property-type-test.js" timestamp="1527117055404">
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="18" column="29" />
+        <mark key="." line="18" column="29" />
+        <mark key="^" line="18" column="29" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/bp-super-rentals/super-rentals/app/index.js" timestamp="1528535687826">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="B:/PyCharm/PythonProjects/Project1/src/DataModels/Property.py" timestamp="1526833833789">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+      </file>
+      <file name="B:/ember-quickstart/app/templates/components/people-list.hbs" timestamp="1527105629777">
+        <mark key="[" line="4" column="37" />
+        <mark key="]" line="4" column="37" />
+        <mark key="." line="4" column="37" />
+        <mark key="^" line="4" column="54" />
+      </file>
+      <file name="B:/super-rentals/app/routes/rentals/show.js" timestamp="1527137387806">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="5" column="67" />
+        <mark key="^" line="5" column="67" />
+        <mark key="." line="5" column="67" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/bp-super-rentals/super-rentals/app/services/rentals.js" timestamp="1528538428928">
+        <mark key="[" line="67" column="75" />
+        <mark key="]" line="67" column="74" />
+        <mark key="^" line="67" column="74" />
+        <mark key="." line="67" column="74" />
+      </file>
+      <file name="B:/Work/ems-apiserver/app/controllers/helloworld.js" timestamp="1531275630526">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="34" />
+        <mark key="^" line="9" column="34" />
+        <mark key="." line="9" column="34" />
+      </file>
+      <file name="B:/Work/ems-apiserver/app/models/truck.js" timestamp="1531238912437">
+        <mark key="[" line="46" column="45" />
+        <mark key="]" line="46" column="47" />
+        <mark key="." line="46" column="47" />
+        <mark key="^" line="46" column="47" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/Rooftop/ember-rooftop-app/config/environment.js" timestamp="1586481399745">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="14" />
+        <mark key="^" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+      </file>
+      <file name="B:/ember-quickstart/app/templates/scientists.hbs" timestamp="1527105207211">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="54" />
+        <mark key="^" line="0" column="54" />
+        <mark key="." line="0" column="54" />
+      </file>
+      <file name="B:/Work/ems-ltdashboard/app/components/truck-list.js" timestamp="1537260815639">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="B:/Work/ems-apiserver/package.json" timestamp="1531274944838">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="9" />
+        <mark key="." line="13" column="9" />
+        <mark key="^" line="13" column="9" />
+      </file>
+      <file name="B:/PyCharm/PythonProjects/Project1/StyleGuide.txt" timestamp="1526876166274">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="12" column="36" />
+        <mark key="^" line="12" column="36" />
+        <mark key="." line="12" column="36" />
+      </file>
+      <file name="B:/ember-quickstart/app/components/people-list.js" timestamp="1527105777786">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="7" column="21" />
+        <mark key="^" line="7" column="21" />
+        <mark key="." line="7" column="21" />
+      </file>
+      <file name="B:/super-rentals/app/adapters/application.js" timestamp="1528531707628">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="30" />
+        <mark key="^" line="3" column="30" />
+        <mark key="." line="3" column="30" />
+      </file>
+      <file name="B:/super-rentals/app/templates/components/rental-listing.hbs" timestamp="1527139943957">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="5" column="1" />
+      </file>
+      <file name="B:/super-rentals/app/templates/rentals/index.hbs" timestamp="1527136579036">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1527035636683">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="B:/PyCharm/PythonProjects/Project1/README.md" timestamp="1526875367381">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="B:/super-rentals/app/router.js" timestamp="1527137341505">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="42" />
+        <mark key="^" line="12" column="42" />
+        <mark key="." line="12" column="42" />
+      </file>
+      <file name="B:/PyCharm/PythonProjects/Project1/src/GUI/GUIs.py" timestamp="1526943886142">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="4" column="19" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="B:/super-rentals/app/routes/rentals/index.js" timestamp="1528533368386">
+        <mark key="[" line="5" column="44" />
+        <mark key="]" line="5" column="44" />
+        <mark key="^" line="5" column="44" />
+        <mark key="." line="5" column="44" />
+      </file>
+      <file name="B:/PyCharm/PythonProjects/Project1/src/GUI/Options.py" timestamp="1526945768836">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="19" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="B:/PyCharm/PythonProjects/Project1/src/__init__.py" timestamp="1526790272402">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="B:/PyCharm/PythonProjects/Project1/src/GUI/NewDataModel.py" timestamp="1527035635262">
+        <mark key="[" line="23" column="74" />
+        <mark key="]" line="23" column="73" />
+        <mark key="." line="23" column="73" />
+        <mark key="^" line="23" column="73" />
+      </file>
+      <file name="B:/super-rentals/app/routes/index.js" timestamp="1527109208022">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+      </file>
+      <file name="B:/super-rentals/app/templates/application.hbs" timestamp="1527109859954">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="17" column="13" />
+        <mark key="." line="17" column="13" />
+        <mark key="^" line="17" column="13" />
+      </file>
+      <file name="B:/Work/ems-ltdashboard/app/templates/components/truck-list-item.hbs" timestamp="1537261008406">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="B:/super-rentals/app/models/rental.js" timestamp="1527117477165">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="9" column="23" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="B:/ember-quickstart/app/routes/scientists.js" timestamp="1527104720866">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="5" column="57" />
+        <mark key="^" line="5" column="57" />
+        <mark key="." line="5" column="57" />
+      </file>
+      <file name="B:/super-rentals/app/templates/about.hbs" timestamp="1527108904772">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="9" column="13" />
+        <mark key="^" line="9" column="13" />
+        <mark key="." line="9" column="13" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1586840027830">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="27" />
+      </file>
+      <file name="B:/PyCharm/PythonProjects/Project1/src/DataModels/Collection.py" timestamp="1526875330534">
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="13" column="25" />
+        <mark key="^" line="13" column="25" />
+        <mark key="." line="13" column="25" />
+      </file>
+      <file name="B:/Work/ems-apiserver/tests/unit-tests/app/routers/truck-test.js" timestamp="1531275674654">
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="20" column="21" />
+        <mark key="." line="20" column="21" />
+        <mark key="^" line="20" column="21" />
+      </file>
+      <file name="B:/Work/ems-ltdashboard/app/routes/main/trucks.js" timestamp="1537260563355">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="2" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/Rooftop/ember-rooftop-app/app/templates/auth/sign-up.hbs" timestamp="1586479963082">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/Rooftop/ember-rooftop-app/app/styles/routes/_auth.scss" timestamp="1586840076919">
+        <mark key="b" line="46" column="0" />
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="7" column="12" />
+        <mark key="." line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+      </file>
+      <file name="B:/Work/ems-ltdashboard/app/models/truck.js" timestamp="1537259947965">
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="24" column="22" />
+        <mark key="^" line="24" column="22" />
+        <mark key="." line="24" column="22" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/Rooftop/ember-rooftop-app/package.json" timestamp="1586480232241">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="B:/PyCharm/PythonProjects/Project1/src/Property.py" timestamp="1526787078402">
+        <mark key="[" line="4" column="36" />
+        <mark key="]" line="4" column="24" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+      </file>
+      <file name="B:/super-rentals/app/components/rental-listing.js" timestamp="1527113674203">
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="6" column="35" />
+        <mark key="^" line="6" column="35" />
+        <mark key="." line="6" column="35" />
+      </file>
+      <file name="B:/super-rentals/tests/integration/components/list-filter-test.js" timestamp="1527130418388">
+        <mark key="[" line="37" column="7" />
+        <mark key="]" line="38" column="4" />
+        <mark key="." line="38" column="4" />
+        <mark key="^" line="38" column="4" />
+      </file>
+      <file name="B:/super-rentals/app/templates/components/list-filter.hbs" timestamp="1527123160296">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="30" />
+        <mark key="." line="3" column="30" />
+        <mark key="^" line="3" column="30" />
+      </file>
+      <file name="B:/super-rentals/app/controllers/rentals/index.js" timestamp="1527136647884">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="30" />
+        <mark key="^" line="2" column="33" />
+        <mark key="." line="2" column="30" />
+      </file>
+      <file name="B:/super-rentals/config/environment.js" timestamp="1528535898790">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/WebstormProjects/Rooftop/ember-rooftop-app/app/templates/auth/sign-in.hbs" timestamp="1586481488611">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="2" column="4" />
+      </file>
+      <file name="B:/super-rentals/tests/integration/components/rental-listing-test.js" timestamp="1527115350007">
+        <mark key="[" line="32" column="96" />
+        <mark key="]" line="32" column="96" />
+        <mark key="." line="32" column="96" />
+        <mark key="^" line="32" column="96" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="11" column="19" filename="B:/PyCharm/PythonProjects/Project1/src/DataModels/DataModel.py" />
+      <jump line="42" column="49" filename="B:/PyCharm/PythonProjects/Project1/src/GUI/MainMenu.py" />
+      <jump line="56" column="0" filename="B:/PyCharm/PythonProjects/Project1/src/GUI/MainMenu.py" />
+      <jump line="35" column="4" filename="B:/PyCharm/PythonProjects/Project1/src/GUI/Widgets.py" />
+      <jump line="37" column="43" filename="B:/PyCharm/PythonProjects/Project1/src/GUI/MainMenu.py" />
+      <jump line="59" column="8" filename="B:/PyCharm/PythonProjects/Project1/src/GUI/Widgets.py" />
+      <jump line="10" column="0" filename="B:/PyCharm/PythonProjects/Project1/src/GUI/Widgets.py" />
+      <jump line="28" column="22" filename="B:/PyCharm/PythonProjects/Project1/src/GUI/Widgets.py" />
+      <jump line="30" column="37" filename="B:/PyCharm/PythonProjects/Project1/src/GUI/Widgets.py" />
+      <jump line="9" column="13" filename="B:/PyCharm/PythonProjects/Project1/src/GUI/Widgets.py" />
+      <jump line="36" column="62" filename="B:/PyCharm/PythonProjects/Project1/src/GUI/MainMenu.py" />
+      <jump line="19" column="0" filename="B:/PyCharm/PythonProjects/Project1/src/GUI/Style.py" />
+      <jump line="58" column="0" filename="B:/PyCharm/PythonProjects/Project1/src/GUI/MainMenu.py" />
+      <jump line="5" column="32" filename="B:/PyCharm/PythonProjects/Project1/src/GUI/GUIHandler.py" />
+      <jump line="34" column="70" filename="B:/PyCharm/PythonProjects/Project1/src/GUI/MainMenu.py" />
+      <jump line="35" column="38" filename="B:/PyCharm/PythonProjects/Project1/src/GUI/MainMenu.py" />
+      <jump line="13" column="16" filename="B:/PyCharm/PythonProjects/Project1/src/GUI/GUIHandler.py" />
+      <jump line="35" column="17" filename="B:/PyCharm/PythonProjects/Project1/src/GUI/GUIHandler.py" />
+      <jump line="31" column="70" filename="B:/PyCharm/PythonProjects/Project1/src/GUI/MainMenu.py" />
+      <jump line="58" column="0" filename="B:/PyCharm/PythonProjects/Project1/src/GUI/Widgets.py" />
+      <jump line="46" column="37" filename="B:/PyCharm/PythonProjects/Project1/src/GUI/MainMenu.py" />
+      <jump line="0" column="0" filename="B:/ember-quickstart/app/templates/programmers.hbs" />
+      <jump line="15" column="0" filename="B:/ember-quickstart/app/router.js" />
+      <jump line="38" column="2" filename="B:/super-rentals/app/routes/rentals.js" />
+      <jump line="39" column="0" filename="B:/super-rentals/mirage/config.js" />
+      <jump line="2" column="1" filename="B:/super-rentals/app/helpers/rental-property-type.js" />
+      <jump line="22" column="3" filename="B:/super-rentals/app/components/list-filter.js" />
+      <jump line="42" column="2" filename="B:/super-rentals/tests/acceptance/list-rentals-test.js" />
+      <jump line="213" column="18" filename="B:/super-rentals/vendor/ember-tutorial.css" />
+      <jump line="15" column="17" filename="$USER_HOME$/WebstormProjects/bp-super-rentals/super-rentals/app/controllers/rental.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/WebstormProjects/bp-super-rentals/super-rentals/app/controllers/rental.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/Rooftop/ember-rooftop-app/package.json" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="-" type="4">
+        <text>P</text>
+      </register>
+      <register name="/" type="4">
+        <text>mdc</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgLmdhdGVrZWVwZXItc3VibWl0IHsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAuZW1iZXItdmlldyB7CiAgICBoZWlnaHQ6IDEwMCU7CiAgICB3aWR0aDogMTAwJTsKICB9</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgbWFyZ2luLXRvcDogNDhweDsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICEK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICJlbWJlci1jbGktbWRjLWFuaW1hdGlvbiI6ICJeMC43Ny4xLWFscGhhLjMiLAogICAgImVtYmVyLWNsaS1tZGMtYmFzZSI6ICJeMC43Ny4xLWFscGhhLjMiLAogICAgImVtYmVyLWNsaS1tZGMtYnV0dG9uIjogIl4wLjc3LjEtYWxwaGEuMyIsCiAgICAiZW1iZXItY2xpLW1kYy1lbGV2YXRpb24iOiAiXjAuNzcuMS1hbHBoYS4zIiwKICAgICJlbWJlci1jbGktbWRjLWZsb2F0aW5nLWxhYmVsIjogIl4wLjc3LjEtYWxwaGEuMyIsCiAgICAiZW1iZXItY2xpLW1kYy1mb3JtIjogIl4wLjc2LjAiLAogICAgImVtYmVyLWNsaS1tZGMtaWNvbiI6ICJeMC43Ny4xLWFscGhhLjMiLAogICAgImVtYmVyLWNsaS1tZGMtbGluZS1yaXBwbGUiOiAiXjAuNzcuMS1hbHBoYS4zIiwKICAgICJlbWJlci1jbGktbWRjLW5vdGNoZWQtb3V0bGluZSI6ICJeMC43Ny4xLWFscGhhLjMiLAogICAgImVtYmVyLWNsaS1tZGMtcmlwcGxlIjogIl4wLjc3LjEtYWxwaGEuMyIsCiAgICAiZW1iZXItY2xpLW1kYy1ydGwiOiAiXjAuNzYuMCIsCiAgICAiZW1iZXItY2xpLW1kYy1zYXNzIjogIl4wLjc2LjAiLAogICAgImVtYmVyLWNsaS1tZGMtc2hhcGUiOiAiXjAuNzcuMS1hbHBoYS4zIiwKICAgICJlbWJlci1jbGktbWRjLXNuYWNrYmFyIjogIl4wLjc3LjEtYWxwaGEuMyIsCiAgICAiZW1iZXItY2xpLW1kYy10ZXh0ZmllbGQiOiAiXjAuNzcuMS1hbHBoYS4zIiwKICAgICJlbWJlci1jbGktbWRjLXRoZW1lIjogIl4wLjc3LjEtYWxwaGEuMyIsCiAgICAiZW1iZXItY2xpLW1kYy10eXBvZ3JhcGh5IjogIl4wLjc3LjEtYWxwaGEuMyIs</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">dHVwbGlwcwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">bGlsbGllcwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>mdc</last-search>
+      <last-offset />
+      <last-pattern>mdc</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>Style.</entry>
+        <entry>(</entry>
+        <entry>mdc</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w2</entry>
+        <entry>wq</entry>
+        <entry>ws</entry>
+        <entry>qw</entry>
+        <entry>q</entry>
+        <entry>we</entry>
+        <entry>w</entry>
+        <entry>W</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

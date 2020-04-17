@@ -16,8 +16,8 @@
         <entry>qw</entry>
         <entry>q</entry>
         <entry>we</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -104,6 +104,11 @@
         <mark key="." line="7" column="12" />
         <mark key="^" line="7" column="12" />
       </file>
+      <file name="$USER_HOME$/WebstormProjects/Rooftop/bp-rooftop-api/package.json" timestamp="1587149203363">
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="B:/Work/ems-ltdashboard/app/models/truck.js" timestamp="1537259947965">
         <mark key="[" line="23" column="5" />
         <mark key="]" line="24" column="22" />
@@ -144,12 +149,6 @@
         <mark key="]" line="46" column="47" />
         <mark key="." line="46" column="47" />
         <mark key="^" line="46" column="47" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/bp-super-rentals/super-rentals/app/routers/api/rental.js" timestamp="1529613345713">
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="8" column="20" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="8" column="20" />
       </file>
       <file name="$USER_HOME$/WebstormProjects/Rooftop/ember-rooftop-app/package.json" timestamp="1586480232241">
         <mark key="'" line="0" column="0" />
@@ -221,7 +220,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="-" type="4">
         <text>P</text>
@@ -233,31 +232,31 @@
         <text encoding="base64">ICAgICAgLmdhdGVrZWVwZXItc3VibWl0IHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiZGV2RGVwZW5kZW5jaWVzIjogewogICAgIkBvbmVoaWxsdGVjaC9ibHVlcHJpbnQtdGVzdGluZyI6ICJeMC44LjAiCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAuZW1iZXItdmlldyB7CiAgICBoZWlnaHQ6IDEwMCU7CiAgICB3aWR0aDogMTAwJTsKICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJAb25laGlsbHRlY2gvYmx1ZXByaW50LW1vbmdvZGIiOiAiXjEuOS4zIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbWFyZ2luLXRvcDogNDhweDsK</text>
+        <text encoding="base64">ICAgICJAb25laGlsbHRlY2gvYmx1ZXByaW50LWdhdGVrZWVwZXIiOiAiXjAuOTMuMiIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICEK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgICJlbWJlci1jbGktbWRjLWFuaW1hdGlvbiI6ICJeMC43Ny4xLWFscGhhLjMiLAogICAgImVtYmVyLWNsaS1tZGMtYmFzZSI6ICJeMC43Ny4xLWFscGhhLjMiLAogICAgImVtYmVyLWNsaS1tZGMtYnV0dG9uIjogIl4wLjc3LjEtYWxwaGEuMyIsCiAgICAiZW1iZXItY2xpLW1kYy1lbGV2YXRpb24iOiAiXjAuNzcuMS1hbHBoYS4zIiwKICAgICJlbWJlci1jbGktbWRjLWZsb2F0aW5nLWxhYmVsIjogIl4wLjc3LjEtYWxwaGEuMyIsCiAgICAiZW1iZXItY2xpLW1kYy1mb3JtIjogIl4wLjc2LjAiLAogICAgImVtYmVyLWNsaS1tZGMtaWNvbiI6ICJeMC43Ny4xLWFscGhhLjMiLAogICAgImVtYmVyLWNsaS1tZGMtbGluZS1yaXBwbGUiOiAiXjAuNzcuMS1hbHBoYS4zIiwKICAgICJlbWJlci1jbGktbWRjLW5vdGNoZWQtb3V0bGluZSI6ICJeMC43Ny4xLWFscGhhLjMiLAogICAgImVtYmVyLWNsaS1tZGMtcmlwcGxlIjogIl4wLjc3LjEtYWxwaGEuMyIsCiAgICAiZW1iZXItY2xpLW1kYy1ydGwiOiAiXjAuNzYuMCIsCiAgICAiZW1iZXItY2xpLW1kYy1zYXNzIjogIl4wLjc2LjAiLAogICAgImVtYmVyLWNsaS1tZGMtc2hhcGUiOiAiXjAuNzcuMS1hbHBoYS4zIiwKICAgICJlbWJlci1jbGktbWRjLXNuYWNrYmFyIjogIl4wLjc3LjEtYWxwaGEuMyIsCiAgICAiZW1iZXItY2xpLW1kYy10ZXh0ZmllbGQiOiAiXjAuNzcuMS1hbHBoYS4zIiwKICAgICJlbWJlci1jbGktbWRjLXRoZW1lIjogIl4wLjc3LjEtYWxwaGEuMyIsCiAgICAiZW1iZXItY2xpLW1kYy10eXBvZ3JhcGh5IjogIl4wLjc3LjEtYWxwaGEuMyIs</text>
+        <text encoding="base64">ICAuZW1iZXItdmlldyB7CiAgICBoZWlnaHQ6IDEwMCU7CiAgICB3aWR0aDogMTAwJTsKICB9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dHVwbGlwcwo=</text>
+        <text encoding="base64">ICAgICAgbWFyZ2luLXRvcDogNDhweDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGlsbGllcwo=</text>
+        <text encoding="base64">ICAgICEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
